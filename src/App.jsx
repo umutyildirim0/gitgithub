@@ -22,6 +22,18 @@ function App() {
           count is {count}
         </button>
         <p>
+          HOŞGELDİNİZ!
+        </p>
+        <p>
+          yeni eklenti 2
+        </p>
+        <p>
+          yeni eklenti 3
+        </p>
+        <p>
+          yeni eklenti 4
+        </p>
+        <p>
           Git ve Github Öğreniyorum w/Alp&Umut
         </p>
       </div>
